@@ -1,7 +1,7 @@
 ### Interest:
 ## Data Design, Analysis, Visualization & Scripting
 
-__Tech Skills: SQL, SSIS, SSAS Tabular, Power BI, PBI Report Builder, Python, Tableau, C#, M and DAX__
+__Tech Skills: SQL, SSIS, SSAS Tabular, Power BI, PBI Report Builder, Python, Tableau, C#, M and Advanced DAX__
 <br>__Project links -__ [Contoso Retail DW Analysis](https://app.powerbi.com/view?r=eyJrIjoiZTMxZjAxNDYtMThjMy00OTY1LTliN2MtNzBiZDc5MTQxNzgxIiwidCI6IjJmZjJhZDJiLTcwYmMtNDMwOS1hZGJiLWJlNmVlMjE0ZmNmNyIsImMiOjEwfQ%3D%3D),
 
 ---
