@@ -1,19 +1,20 @@
-## Interest:
-# Data Design, Analysis, Visualization & Scripting
-__Technical Skills: SQL, SSIS, SSAL Tabular, M, DAX, Power BI, PBI Report Builder, Python, Tableau and C#__
+### Interest:
+## Data Design, Analysis, Visualization & Scripting
+
+__Tech Skills: SQL, SSIS, SSAS Tabular, Power BI, PBI Report Builder, Python, Tableau and C#__
 <br>__Project links -__ [Contoso Retail DW Analysis](https://app.powerbi.com/view?r=eyJrIjoiZTMxZjAxNDYtMThjMy00OTY1LTliN2MtNzBiZDc5MTQxNzgxIiwidCI6IjJmZjJhZDJiLTcwYmMtNDMwOS1hZGJiLWJlNmVlMjE0ZmNmNyIsImMiOjEwfQ%3D%3D),
 
 ---
-## Education: 
+### Education: 
 #### MBA in Finance, IBA, University of Dhaka
 ---
-## Experience:
-__Experience in Corporate Sector as a Financial Analyst - 7 Years plus__
-<br> _Wrokspace - __at Office___
-<br>__Experience on Data Design, Data Analysis, Visualization and Scripting - 1 Year plus__
-<br> _Workspace - __at Home___
+### Experience:
+Experience in __Corporate Sector__ as a Financial Analyst - __7 Years plus__
+<br> Wrokspace - _at Office_
+<br>Experience on __Data Design, Data Analysis, Visualization and Scripting - 1 Year plus__
+<br> Workspace - _at Home_
 
-## Project Experience on Data:
+### Project Experience on Data:
 <ul>
 <li><i>✅ T-SQL</i> using SSMS and Azure Data Studio  </li>
 <li><i>✅ SSIS packages</i> for ETL, data warehousing (DW), and <i>SSAS Tabular</i> solutions,  </li>
@@ -26,7 +27,7 @@ __Experience in Corporate Sector as a Financial Analyst - 7 Years plus__
 </ul>
 
 
-## Experience on related Coding Languages
+### Experience on related Coding Languages
 
 <ul>
 <li> <i>🟩 Java</i> </li>
@@ -36,7 +37,7 @@ __Experience in Corporate Sector as a Financial Analyst - 7 Years plus__
 </ul>
 
 ---
-## Other facts:
+### Other facts:
 
 - 💞️ I’m looking to collaborate on projects of all sorts related to data
 - 📫 How to reach me ... 
