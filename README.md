@@ -1,6 +1,8 @@
 ## Interest:
-# Data Design, Data Analysis, Visualization and Scripting
-#### Technical Skills: SQL, SSIS, SSAL Tabular, M, DAX, Power BI, PBI Report Builder, Python, Tableau and C#
+# Data Design, Analysis, Visualization & Scripting
+__Technical Skills: SQL, SSIS, SSAL Tabular, M, DAX, Power BI, PBI Report Builder, Python, Tableau and C#__
+<br>__Project links -__ [Contoso Retail DW Analysis](https://app.powerbi.com/view?r=eyJrIjoiZTMxZjAxNDYtMThjMy00OTY1LTliN2MtNzBiZDc5MTQxNzgxIiwidCI6IjJmZjJhZDJiLTcwYmMtNDMwOS1hZGJiLWJlNmVlMjE0ZmNmNyIsImMiOjEwfQ%3D%3D),
+
 ---
 ## Education: 
 #### MBA in Finance, IBA, University of Dhaka
@@ -23,10 +25,7 @@ __Experience in Corporate Sector as a Financial Analyst - 7 Years plus__
 <li><i>🟪Python, Tableau and C#</i>  for data analysis, visualization and automation</li>
 </ul></ul></ul>
 
- __Project links -__
-[Contoso Retail DW Analysis](https://app.powerbi.com/view?r=eyJrIjoiZTMxZjAxNDYtMThjMy00OTY1LTliN2MtNzBiZDc5MTQxNzgxIiwidCI6IjJmZjJhZDJiLTcwYmMtNDMwOS1hZGJiLWJlNmVlMjE0ZmNmNyIsImMiOjEwfQ%3D%3D),
 
----
 ## Experience on related Coding Languages
 
 <ul><ul><ul>
@@ -36,6 +35,7 @@ __Experience in Corporate Sector as a Financial Analyst - 7 Years plus__
 <li> <i>🟪Remote workspace management</i> </li>
 </ul></ul></ul>
 
+---
 ## Other facts:
 
 - 💞️ I’m looking to collaborate on projects of all sorts related to data
