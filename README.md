@@ -14,7 +14,7 @@ __Experience in Corporate Sector as a Financial Analyst - 7 Years plus__
 <br> _Workspace - at Home_
 
 ## Project Experience on Data:
-<ul><ul><ul>
+<ul>
 <li><i>✅T-SQL</i> using SSMS and Azure Data Studio  </li>
 <li><i>✅SSIS packages</i> for ETL, data warehousing (DW), and <i>SSAS Tabular</i> solutions,  </li>
 <li><i>✅Mashup (M)</i> for ETL in Power Query,  </li>
@@ -23,17 +23,17 @@ __Experience in Corporate Sector as a Financial Analyst - 7 Years plus__
 <li><i>✅PBI Service</i> for visualization, sharing and PBI administration,  </li>
 <li><i>🟦PBI Report Builder</i> for Paginated Report, and also   </li>
 <li><i>🟪Python, Tableau and C#</i>  for data analysis, visualization and automation</li>
-</ul></ul></ul>
+</ul>
 
 
 ## Experience on related Coding Languages
 
-<ul><ul><ul>
+<ul>
 <li> <i>🟩Java</i> </li>
 <li> <i>🟨JavaScript</i> </li>
 <li> <i>🟦HTML & CSS</i> </li>
 <li> <i>🟪Remote workspace management</i> </li>
-</ul></ul></ul>
+</ul>
 
 ---
 ## Other facts:
