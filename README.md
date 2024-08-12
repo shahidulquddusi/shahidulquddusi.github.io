@@ -9,30 +9,30 @@ __Technical Skills: SQL, SSIS, SSAL Tabular, M, DAX, Power BI, PBI Report Builde
 ---
 ## Experience:
 __Experience in Corporate Sector as a Financial Analyst - 7 Years plus__
-<br> _Wrokspace - at Office_
+<br> _Wrokspace - __at Office___
 <br>__Experience on Data Design, Data Analysis, Visualization and Scripting - 1 Year plus__
-<br> _Workspace - at Home_
+<br> _Workspace - __at Home___
 
 ## Project Experience on Data:
 <ul>
-<li><i>✅T-SQL</i> using SSMS and Azure Data Studio  </li>
-<li><i>✅SSIS packages</i> for ETL, data warehousing (DW), and <i>SSAS Tabular</i> solutions,  </li>
-<li><i>✅Mashup (M)</i> for ETL in Power Query,  </li>
-<li><i>✅DAX (Data Analysis eXpression)</i> for SSAS Tabular and Power BI,  </li>
-<li><i>✅Power BI Desktop</i> for ETL, data modeling, data analysis and visualization,  </li>
-<li><i>✅PBI Service</i> for visualization, sharing and PBI administration,  </li>
-<li><i>🟦PBI Report Builder</i> for Paginated Report, and also   </li>
-<li><i>🟪Python, Tableau and C#</i>  for data analysis, visualization and automation</li>
+<li><i>✅ T-SQL</i> using SSMS and Azure Data Studio  </li>
+<li><i>✅ SSIS packages</i> for ETL, data warehousing (DW), and <i>SSAS Tabular</i> solutions,  </li>
+<li><i>✅ Mashup (M)</i> for ETL in Power Query,  </li>
+<li><i>✅ DAX (Data Analysis eXpression)</i> for SSAS Tabular and Power BI,  </li>
+<li><i>✅ Power BI Desktop</i> for ETL, data modeling, data analysis and visualization,  </li>
+<li><i>✅ PBI Service</i> for visualization, sharing and PBI administration,  </li>
+<li><i>🟦 PBI Report Builder</i> for Paginated Report, and also   </li>
+<li><i>🟪 Python, Tableau and C#</i>  for data analysis, visualization and automation</li>
 </ul>
 
 
 ## Experience on related Coding Languages
 
 <ul>
-<li> <i>🟩Java</i> </li>
-<li> <i>🟨JavaScript</i> </li>
-<li> <i>🟦HTML & CSS</i> </li>
-<li> <i>🟪Remote workspace management</i> </li>
+<li> <i>🟩 Java</i> </li>
+<li> <i>🟨 JavaScript</i> </li>
+<li> <i>🟦 HTML & CSS</i> </li>
+<li> <i>🟪 Remote workspace management</i> </li>
 </ul>
 
 ---
