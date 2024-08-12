@@ -1,7 +1,7 @@
 ### Interest:
 ## Data Design, Analysis, Visualization & Scripting
 
-__Tech Skills: SQL, SSIS, SSAS Tabular, Power BI, PBI Report Builder, Python, Tableau, C#, M and Advanced DAX__
+__Tech Skills: SQL, Power BI, Adv DAX, M, C#, SSIS, SSAS Tabular, PBI Report Builder, Python and Tableau__
 <br>__Project links -__ [Contoso Retail DW Analysis](https://app.powerbi.com/view?r=eyJrIjoiZTMxZjAxNDYtMThjMy00OTY1LTliN2MtNzBiZDc5MTQxNzgxIiwidCI6IjJmZjJhZDJiLTcwYmMtNDMwOS1hZGJiLWJlNmVlMjE0ZmNmNyIsImMiOjEwfQ%3D%3D),
 
 ---
@@ -11,7 +11,7 @@ __Tech Skills: SQL, SSIS, SSAS Tabular, Power BI, PBI Report Builder, Python, Ta
 ### Experience:
 Experience in __Corporate Sector__ as a Financial Analyst - __7+ Years__
 <br> Wrokspace - _at Office_
-<br>Exp on __Data Design, Analysis, Visualization & Scripting - 1+ Year__
+<br>Experiece on __Data Design, Analysis, Visualization & Scripting - 1+ Year__
 <br> Workspace - _at Home_
 
 ### Project Experience on Data:
