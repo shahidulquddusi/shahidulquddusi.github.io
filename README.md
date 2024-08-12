@@ -9,12 +9,13 @@ __Tech Skills: SQL, Power BI, Adv DAX, M, C#, SSIS, SSAS Tabular, PBI Report Bui
 #### MBA in Finance, IBA, University of Dhaka
 ---
 ### Experience:
-Experience in __Corporate Sector__ as a Financial Analyst - __7+ Years__
+Experience in the __Corporate Sector__ as a Financial Analyst - __7+ Years__
 <br> Wrokspace - _at Office_
-<br>Experiece on __Data Design, Analysis, Visualization & Scripting - 1+ Year__
+<br>Experience in __Data Design, Analysis, Visualization & Scripting - 1+ Year__
 <br> Workspace - _at Home_
 
-### Project Experience on Data:
+### Projects Experience in Analysing Databases:
+ 
 <ul>
 <li><i>✅ T-SQL</i> using SSMS and Azure Data Studio  </li>
 <li><i>✅ SSIS packages</i> for ETL, data warehousing (DW), and <i>SSAS Tabular</i> solutions,  </li>
@@ -28,7 +29,7 @@ Experience in __Corporate Sector__ as a Financial Analyst - __7+ Years__
 
 ___Project links__ are provided on top/skill section._
 
-### Experience on related Coding Languages
+### Experience in related Coding Languages
 
 <ul>
 <li> <i>🟩 Java</i> </li>
