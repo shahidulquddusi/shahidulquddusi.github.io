@@ -9,9 +9,9 @@ __Tech Skills: SQL, SSIS, SSAS Tabular, Power BI, PBI Report Builder, Python, Ta
 #### MBA in Finance, IBA, University of Dhaka
 ---
 ### Experience:
-Experience in __Corporate Sector__ as a Financial Analyst - __7 Years__
+Experience in __Corporate Sector__ as a Financial Analyst - __7+ Years__
 <br> Wrokspace - _at Office_
-<br>Exp on __Data Design, Analysis, Visualization & Scripting - 1 Year__
+<br>Exp on __Data Design, Analysis, Visualization & Scripting - 1+ Year__
 <br> Workspace - _at Home_
 
 ### Project Experience on Data:
