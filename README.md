@@ -10,8 +10,7 @@ __Tech Skills: SQL, Power BI, Adv DAX, M, C#, SSIS, SSAS Tabular, PBI Report Bui
 
 ---
 ### Education: 
-#### MBA in Finance
-#### Institute of Business Administration (IBA), University of Dhaka
+#### MBA in Finance, Institute of Business Administration (IBA), University of Dhaka
 ---
 ### Experience:
 Experience in the __Corporate Sector__ as a Financial Analyst - __7+ Years__
