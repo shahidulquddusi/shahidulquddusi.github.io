@@ -2,7 +2,7 @@
 ## Data Design, Analysis, Visualization & Scripting
 
 __Tech Skills: SQL, Power BI, Adv DAX, M, C#, SSIS, SSAS Tabular, PBI Report Builder, Python and Tableau__
-<br><br>___Links of the Projects -___ 
+<br><br>___Links of the projects -___ 
 <br> __<a href="https://app.powerbi.com/view?r=eyJrIjoiZTMxZjAxNDYtMThjMy00OTY1LTliN2MtNzBiZDc5MTQxNzgxIiwidCI6IjJmZjJhZDJiLTcwYmMtNDMwOS1hZGJiLWJlNmVlMjE0ZmNmNyIsImMiOjEwfQ%3D%3D" target="_blank">Contoso Retail DW Analysis</a>__, __<a href="https://app.powerbi.com/view?r=eyJrIjoiYzcwYzRmMGYtZjQwMy00MmYwLThmMjItNGM0ZjliOWJmYjY1IiwidCI6IjJmZjJhZDJiLTcwYmMtNDMwOS1hZGJiLWJlNmVlMjE0ZmNmNyIsImMiOjEwfQ%3D%3D" target="_blank">Adventure Works PL Investigation</a>__
 
 
@@ -12,13 +12,13 @@ __Tech Skills: SQL, Power BI, Adv DAX, M, C#, SSIS, SSAS Tabular, PBI Report Bui
 ### Education: 
 #### <i>MBA</i> in Finance, Institute of Business Administration (IBA), University of Dhaka
 ---
-### Experience:
+### Experiences:
 Experience in the __Corporate Sector__ as a Financial Analyst - __7+ Years__
 <br> Wrokspace - _at Office_
 <br>Experience in __Data Design, Analysis, Visualization & Scripting - 1+ Year__
 <br> Workspace - _at Home_
 
-### Experiences in Analysing Database Projects :
+### Experiences in analysing database projects :
 
 <ul>
 <li><i>✅ T-SQL</i> using SSMS and Azure Data Studio  </li>
@@ -31,9 +31,9 @@ Experience in the __Corporate Sector__ as a Financial Analyst - __7+ Years__
 <li><i>🟪 Python, Tableau and C#</i>  for data analysis, visualization and automation</li>
 </ul>
 
-___Links of the Projects__ are provided in the top/skill section._
+___Links of the projects__ are provided in the top/skill section._
 
-### Experience in related Coding Languages
+### Experiences in related coding languages
 
 <ul>
 <li> <i>🟩 Java</i> </li>
