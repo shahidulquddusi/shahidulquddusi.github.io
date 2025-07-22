@@ -1,12 +1,9 @@
 ### Resume: _Data Analyst_
 ## Data Design, Analysis, Visualization & Scripting
 
-__Tech Skills: SQL, Power BI, Adv DAX, M, C#, SSIS, SSAS Tabular, PBI Report Builder, Python and Tableau__
+__Tech Skills: SQL, Power BI, DAX, M, C#, SSIS, SSAS-Tabular, Tableau, Java and JavaScript__
 <br><br>___Links of the projects -___ 
 <br> __<a href="https://app.powerbi.com/view?r=eyJrIjoiZTMxZjAxNDYtMThjMy00OTY1LTliN2MtNzBiZDc5MTQxNzgxIiwidCI6IjJmZjJhZDJiLTcwYmMtNDMwOS1hZGJiLWJlNmVlMjE0ZmNmNyIsImMiOjEwfQ%3D%3D" target="_blank">Contoso Retail DW Analysis</a>__, __<a href="https://app.powerbi.com/view?r=eyJrIjoiYzcwYzRmMGYtZjQwMy00MmYwLThmMjItNGM0ZjliOWJmYjY1IiwidCI6IjJmZjJhZDJiLTcwYmMtNDMwOS1hZGJiLWJlNmVlMjE0ZmNmNyIsImMiOjEwfQ%3D%3D" target="_blank">Adventure Works PL Investigation</a>__
-
-
-
 
 ---
 ### Education: 
@@ -15,8 +12,8 @@ __Tech Skills: SQL, Power BI, Adv DAX, M, C#, SSIS, SSAS Tabular, PBI Report Bui
 ### Experiences:
 Experience in the __Corporate Sector__ as a Financial Analyst - __7+ Years__
 <br> Wrokspace - _at Office_
-<br>Experience in __Data Design, Analysis, Visualization & Scripting - 1+ Year__
-<br> Workspace - _at Home_
+<br>Experience in __Data Design, Analysis, Visualization & Scripting - 1.5+ Years__
+<br> Workspace - _at Home (non-professional)_
 
 ### Experiences in analysing database projects :
 
@@ -33,12 +30,16 @@ Experience in the __Corporate Sector__ as a Financial Analyst - __7+ Years__
 
 ___Links of the projects__ are provided in the top/skill section._
 
-### Experiences in related coding languages
+### Experiences in relevant coding languages and fields
 
 <ul>
 <li> <i>🟩 Java</i> </li>
 <li> <i>🟨 JavaScript</i> </li>
+<li> <i>🟨 Python</i> </li>
+<li> <i>🟦 Markdown</i> </li>
 <li> <i>🟦 HTML & CSS</i> </li>
+<li> <i>🟦 GitHub</i> </li>
+<li> <i>🟨 PBI Report Builder</i> </li>
 <li> <i>🟪 Remote workspace management</i> </li>
 </ul>
 
