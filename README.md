@@ -5,7 +5,7 @@ __Data Skills:__ SQL, Power BI, DAX, M, SSIS, SSAS-Tabular and Tableau<br>
 __Languages:__ _Java, JavaScript and C#_
 
 ___Links of the projects -___ 
-<br> __<a href="https://app.powerbi.com/view?r=eyJrIjoiZTMxZjAxNDYtMThjMy00OTY1LTliN2MtNzBiZDc5MTQxNzgxIiwidCI6IjJmZjJhZDJiLTcwYmMtNDMwOS1hZGJiLWJlNmVlMjE0ZmNmNyIsImMiOjEwfQ%3D%3D" target="_blank">Contoso Retail DW Analysis</a>__, __<a href="https://app.powerbi.com/view?r=eyJrIjoiYzcwYzRmMGYtZjQwMy00MmYwLThmMjItNGM0ZjliOWJmYjY1IiwidCI6IjJmZjJhZDJiLTcwYmMtNDMwOS1hZGJiLWJlNmVlMjE0ZmNmNyIsImMiOjEwfQ%3D%3D" target="_blank">Adventure Works PL Investigation</a>__
+<br> __<a href="https://github.com/shahidulquddusi/Java-Projects/tree/main/Java%20Projects">Java Projects on GitHub</a>__, __<a href="https://app.powerbi.com/view?r=eyJrIjoiZTMxZjAxNDYtMThjMy00OTY1LTliN2MtNzBiZDc5MTQxNzgxIiwidCI6IjJmZjJhZDJiLTcwYmMtNDMwOS1hZGJiLWJlNmVlMjE0ZmNmNyIsImMiOjEwfQ%3D%3D" target="_blank">Contoso Retail DW Analysis</a>__, __<a href="https://app.powerbi.com/view?r=eyJrIjoiYzcwYzRmMGYtZjQwMy00MmYwLThmMjItNGM0ZjliOWJmYjY1IiwidCI6IjJmZjJhZDJiLTcwYmMtNDMwOS1hZGJiLWJlNmVlMjE0ZmNmNyIsImMiOjEwfQ%3D%3D" target="_blank">Adventure Works PL Investigation</a>__
 
 ---
 ### Education: 
