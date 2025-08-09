@@ -1,21 +1,29 @@
-### Resume: _Data Analyst_
-## Data Design, Analysis, Visualization & Scripting
+### Resume: _SoftDev DataAnalyst_
+## Software Dev, Scripting, Data Design, Analysis & Visualization
 
-__Data Skills:__ SQL, Power BI, DAX, M, SSIS, SSAS-Tabular and Tableau<br>
-__Languages:__ _Java, JavaScript and C#_
+__Languages:__ _Java, Spring Framework, Spring Boot, Hibernate and C#_<br>
+__Data Skills:__ MS Power BI, DAX, SQL, M, SSIS, SSAS-Tabular and Tableau
 
-___Links of the projects -___ 
-<br> __<a href="https://github.com/shahidulquddusi/Java-Projects/tree/main/Java%20Projects">Java Projects on GitHub</a>__, __<a href="https://app.powerbi.com/view?r=eyJrIjoiZTMxZjAxNDYtMThjMy00OTY1LTliN2MtNzBiZDc5MTQxNzgxIiwidCI6IjJmZjJhZDJiLTcwYmMtNDMwOS1hZGJiLWJlNmVlMjE0ZmNmNyIsImMiOjEwfQ%3D%3D" target="_blank">Contoso Retail DW Analysis</a>__, __<a href="https://app.powerbi.com/view?r=eyJrIjoiYzcwYzRmMGYtZjQwMy00MmYwLThmMjItNGM0ZjliOWJmYjY1IiwidCI6IjJmZjJhZDJiLTcwYmMtNDMwOS1hZGJiLWJlNmVlMjE0ZmNmNyIsImMiOjEwfQ%3D%3D" target="_blank">Adventure Works PL Investigation</a>__
+___Linkedin Profile:___ 
+_<a href="https://www.linkedin.com/in/shahidul-quddusi">here</a>_
+<br><br>___Links of the projects:___ 
+<br> _<a href="https://github.com/shahidulquddusi/Java-Projects/tree/main/Java%20Projects">Java (Spring, Hibernate, Spring Boot) Projects on GitHub</a>_
+<br> _<a href="https://app.powerbi.com/view?r=eyJrIjoiZTMxZjAxNDYtMThjMy00OTY1LTliN2MtNzBiZDc5MTQxNzgxIiwidCI6IjJmZjJhZDJiLTcwYmMtNDMwOS1hZGJiLWJlNmVlMjE0ZmNmNyIsImMiOjEwfQ%3D%3D" target="_blank">Contoso Retail DW Analysis</a>_
+<br> _<a href="https://app.powerbi.com/view?r=eyJrIjoiYzcwYzRmMGYtZjQwMy00MmYwLThmMjItNGM0ZjliOWJmYjY1IiwidCI6IjJmZjJhZDJiLTcwYmMtNDMwOS1hZGJiLWJlNmVlMjE0ZmNmNyIsImMiOjEwfQ%3D%3D" target="_blank">Adventure Works PL Investigation</a>_
+
 
 ---
 ### Education: 
 #### <i>MBA</i> in Finance, Institute of Business Administration (IBA), University of Dhaka
 ---
 ### Experiences:
-Experience in the __Corporate Sector__ as a Financial Analyst - __7+ Years__
-<br> Wrokspace - _at Office_
-<br>Experience in __Data Design, Analysis, Visualization & Scripting - 1.5+ Years__
-<br> Workspace - _at Home (non-professional)_
+Experience in __Software Developement - 2+ Years__
+<br> _QSolution . Self-employed . (Remote)_
+<br> Experience in __Data Design, Analysis, Visualization & Scripting - 2.5+ Years__
+<br> _QSolution . Self-employed . (Remote)_
+<br>Experience in the __Corporate Sector__ as a Financial Analyst - __7+ Years__
+<br> _Confidential . Full-time . (On-site)_
+
 
 ### Experiences in analysing database projects :
 
@@ -35,7 +43,7 @@ ___Links of the projects__ are provided in the top/skill section._
 ### Experiences in relevant coding languages and fields
 
 <ul>
-<li> <i>🟩 Java</i> </li>
+<li> <i>🟩 Java (Spring Framework, Boot, Hibernate)</i> </li>
 <li> <i>🟨 JavaScript</i> </li>
 <li> <i>🟨 Python</i> </li>
 <li> <i>🟦 Markdown</i> </li>
