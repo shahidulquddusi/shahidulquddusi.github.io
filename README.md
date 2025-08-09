@@ -5,7 +5,7 @@ __Languages:__ _Java, Spring Framework, Spring Boot, Hibernate and C#_<br>
 __Data Skills:__ MS Power BI, DAX, SQL, M, SSIS, SSAS-Tabular and Tableau
 
 ___Linkedin Profile:___ 
-_<a href="https://www.linkedin.com/in/shahidul-quddusi">here</a>_
+_<a href="https://www.linkedin.com/in/shahidulquddusi">here</a>_
 <br><br>___Links of the projects:___ 
 <br> _<a href="https://github.com/shahidulquddusi/Java-Projects/tree/main/Java%20Projects">Java (Spring, Hibernate, Spring Boot) Projects on GitHub</a>_
 <br> _<a href="https://app.powerbi.com/view?r=eyJrIjoiZTMxZjAxNDYtMThjMy00OTY1LTliN2MtNzBiZDc5MTQxNzgxIiwidCI6IjJmZjJhZDJiLTcwYmMtNDMwOS1hZGJiLWJlNmVlMjE0ZmNmNyIsImMiOjEwfQ%3D%3D" target="_blank">Contoso Retail DW Analysis</a>_
