@@ -4,7 +4,7 @@
 __Languages:__ _Java, Spring Framework, Spring Boot, Hibernate and C#_<br>
 __Data Skills:__ MS Power BI, DAX, SQL, M, SSIS, SSAS-Tabular and Tableau
 
-___Profile Link: <a href="https://www.linkedin.com/in/shahidulquddusi">Linkedin</a>___ 
+___Profile Link: <a href="https://www.linkedin.com/in/shahidulquddusi" target="_blank">Linkedin</a>___ 
 
 ___Links of the projects:___ 
 <br> _<a href="https://github.com/shahidulquddusi/Java-Projects/tree/main/Java%20Projects">Java (Spring, Hibernate, Spring Boot) Projects on GitHub</a>_
