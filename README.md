@@ -7,7 +7,7 @@ __Data Skills:__ MS Power BI, DAX, SQL, M, SSIS, SSAS-Tabular and Tableau
 ___Profile Link: <a href="https://www.linkedin.com/in/shahidulquddusi" target="_blank">Linkedin</a>___ 
 
 ___Links of the projects:___ 
-<br> _<a href="https://github.com/shahidulquddusi/Java-Projects">Java (Spring, Hibernate, Spring Boot) Projects on GitHub</a>_
+<br> _<a href="https://github.com/shahidulquddusi/Java-Projects" target="_blank">Java (Spring, Hibernate, Spring Boot) Projects on GitHub</a>_
 <br> _<a href="https://app.powerbi.com/view?r=eyJrIjoiZTMxZjAxNDYtMThjMy00OTY1LTliN2MtNzBiZDc5MTQxNzgxIiwidCI6IjJmZjJhZDJiLTcwYmMtNDMwOS1hZGJiLWJlNmVlMjE0ZmNmNyIsImMiOjEwfQ%3D%3D" target="_blank">Contoso Retail DW Analysis</a>_
 <br> _<a href="https://app.powerbi.com/view?r=eyJrIjoiYzcwYzRmMGYtZjQwMy00MmYwLThmMjItNGM0ZjliOWJmYjY1IiwidCI6IjJmZjJhZDJiLTcwYmMtNDMwOS1hZGJiLWJlNmVlMjE0ZmNmNyIsImMiOjEwfQ%3D%3D" target="_blank">Adventure Works PL Investigation</a>_
 
