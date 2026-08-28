@@ -19,7 +19,7 @@ __Data (RDBMS) Skills:__ MS Power BI, DAX, SQL, M, SSIS, SSAS-Tabular and Tablea
 
 ---
 ### 🎓 Education
-*   **<i>MBA</i> in Finance**, Institute of Business Administration (IBA), University of Dhaka
+*   #### <i>MBA</i> in Finance, Institute of Business Administration (IBA), University of Dhaka
 ---
 ### 💼 Experience
 *   Experience in __Data Design, Analysis, Visualization & Scripting - 3+ Years__
