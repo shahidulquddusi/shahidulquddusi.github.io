@@ -4,28 +4,34 @@
 __Languages:__ _Java, Spring Framework, Spring Boot, Hibernate and C#_<br>
 __Data (RDBMS) Skills:__ MS Power BI, DAX, SQL, M, SSIS, SSAS-Tabular and Tableau
 
-___Profile Links: <a href="https://www.linkedin.com/in/shahidulquddusi" target="_blank">Linkedin</a>___ _(Contact)_ ___, <a href="https://www.hackerrank.com/profile/shahidulquddusi" target="_blank">Hackerrank</a>___
+🛜 ___Profile Links: <a href="https://www.linkedin.com/in/shahidulquddusi" target="_blank">LinkedIn</a>___ _(Contact)_ ___, <a href="https://www.hackerrank.com/profile/shahidulquddusi" target="_blank">HackerRank</a>___
 
-___Links of the projects:___ 
-<br> _<a href="https://app.powerbi.com/view?r=eyJrIjoiM2I3ZjE4NWYtMmRlYy00OTMzLTkxZTItMWI2NTk1NGYwMjRmIiwidCI6IjJmZjJhZDJiLTcwYmMtNDMwOS1hZGJiLWJlNmVlMjE0ZmNmNyIsImMiOjEwfQ%3D%3D" target="_blank">Contoso Retail DW Analysis ( Rows > 3.40 M and > 12.62 M )</a>_
+📢 ___Links of the projects:___ 
+<br> _<a href="https://app.powerbi.com/view?r=eyJrIjoiM2I3ZjE4NWYtMmRlYy00OTMzLTkxZTItMWI2NTk1NGYwMjRmIiwidCI6IjJmZjJhZDJiLTcwYmMtNDMwOS1hZGJiLWJlNmVlMjE0ZmNmNyIsImMiOjEwfQ%3D%3D" target="_blank">Power BI Contoso ( Cardinalities > 3.40 M and > 12.62 M )</a>_
 <br> _<a href="https://app.powerbi.com/view?r=eyJrIjoiYzcwYzRmMGYtZjQwMy00MmYwLThmMjItNGM0ZjliOWJmYjY1IiwidCI6IjJmZjJhZDJiLTcwYmMtNDMwOS1hZGJiLWJlNmVlMjE0ZmNmNyIsImMiOjEwfQ%3D%3D" target="_blank">Adventure Works PL Investigation</a>_
 <br> _<a href="https://github.com/shahidulquddusi/Java-Projects" target="_blank">Java (Spring, Hibernate, Spring Boot) Projects on GitHub</a>_
 
+---
+### 🚩 Key Technical Achievements
+
+*   **Advanced Data Modeling:** Developed a robust, custom 40+ column Enterprise Calendar table, engineered with standalone architectures available in both DAX and Power Query (M). The template seamlessly supports complex DAX Time Intelligence calculations and is conveniently _adjustable to any Fiscal Year configuration—except_ for a March-to-February cycle, where February leap-year logic remains intentionally unadjusted.
+*   **DAX Automation:** Created an automation script to **instantly deploy 1,000+ standardized measures—including 200+ Time Intelligence**, moving averages, and multi-year comparisons—across core business indicators like Sales, Units, and Profit.
+*   **Dynamic Reporting:** Built advanced formatting layers supporting conditional color manipulation and automated scale formatting (Billions, Millions, Thousands).
 
 ---
-### Education: 
+### 🎓 Education: 
 #### <i>MBA</i> in Finance, Institute of Business Administration (IBA), University of Dhaka
 ---
-### Experiences:
-Experience in __Software Developement - 2+ Years__
-<br> _QSolution . Self-employed . (Remote)_
-<br> Experience in __Data Design, Analysis, Visualization & Scripting - 3+ Years__
-<br> _QSolution . Self-employed . (Remote)_
-<br>Experience in the __Corporate Sector__ as a Financial Analyst - __7+ Years__
+### 💼 Experience:
+*   Experience in __Data Design, Analysis, Visualization & Scripting - 3+ Years__
+<br> _QSolution . Self-employed . (Remote)_<br>
+*    Experience in __Software Development - 2+ Years__
+<br> _QSolution . Self-employed . (Remote)_<br>
+*   Experience in the __Corporate Sector__ as a Financial Analyst - __7+ Years__
 <br> _Confidential . Full-time . (On-site)_
 
 
-### Experiences in analysing database projects :
+### 💻 Technical Toolkit :
 
 <ul>
 <li><i>✅ T-SQL</i> using SSMS and Azure Data Studio, and <b><i>PostgreSQL</i></b></li>
@@ -40,7 +46,7 @@ Experience in __Software Developement - 2+ Years__
 
 ___Links of the projects__ are provided in the top/skill section._
 
-### Experiences in relevant coding languages and fields
+### ➕ Additional Coding Skills :
 
 <ul>
 <li> <i>🟩 Java (Spring Framework, Boot, Hibernate)</i> </li>
@@ -55,7 +61,7 @@ ___Links of the projects__ are provided in the top/skill section._
 </ul>
 
 ---
-### Other facts:
+### 🔭 Other facts:
 
 - 💞️ I’m looking to collaborate on projects of all sorts related to data
 - 📫 How to reach me ... _see Linkedin profile_
