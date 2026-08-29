@@ -13,7 +13,7 @@ __Data (RDBMS) Skills:__ MS Power BI, DAX, SQL, M, SSIS, SSAS-Tabular and Tablea
 
 ---
 ### 🚩 Key Technical Achievements
-*   **Advanced Data Modeling:** Developed a robust, custom 40+ column Enterprise Calendar table, engineered with standalone architectures available in both DAX and Power Query (M). The template seamlessly supports complex DAX Time Intelligence calculations and is conveniently **_adjustable to any Fiscal Year configuration—except_** for a March-to-February cycle, where February leap-year logic remains intentionally unadjusted.
+*   **Advanced Data Modeling:** Developed a robust, custom 60+ column Enterprise Calendar table, engineered with standalone architectures available in both DAX and Power Query (M). The template seamlessly supports complex DAX Time Intelligence calculations and is conveniently **_adjustable to any Fiscal Year configuration—except_** for a March-to-February cycle, where February leap-year logic remains intentionally unadjusted.
 *   **DAX Automation:** Created an automation script to **_instantly deploy 1,000+ standardized measures_**—including 200+ Time Intelligence, moving averages, and multi-year comparisons—across core business indicators like Sales, Units, and Profit.
 *   **Dynamic Reporting:** Built advanced formatting layers supporting conditional color manipulation and automated scale formatting (Billions, Millions, Thousands).
 
