@@ -13,7 +13,7 @@ __Data (RDBMS) Skills:__ MS Power BI, DAX, SQL, M, SSIS, SSAS-Tabular and Tablea
 
 ---
 ### 🚩 Key Technical Achievements
-*   **Scalable Architecture:** Optimized enterprise-grade multi-fact models across several PoCs, including a 30M+ combined row architecture with ~70%
+*   **Scalable Architecture:** Optimized enterprise-grade multi-fact models across several PoCs, including a 30M+ combined row architecture with \~70%
 compression rate during performance testing.
 *   **DAX Automation:** Accelerated production environment setups by scripting the **_instantaneous deployment of 1,000+ standardized measures_** per indicator—spanning 200+ Time Intelligence configurations, moving averages, and 3-year comparisons—across core business indicators like Sales, Units, and Profit.
 *   **Advanced Data Modeling:** Developed a custom 60+ column Enterprise Calendar table engineered with standalone DAX and Power Query M architectures. This template is **_fully adaptable to custom fiscal cycles_** starting in any month of the calendar year, while seamlessly supporting complex DAX Time Intelligence calculations.
